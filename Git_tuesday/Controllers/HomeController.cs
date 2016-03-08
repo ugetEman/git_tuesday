@@ -22,7 +22,7 @@ namespace Git_tuesday.Controllers
 
         public ActionResult Contact()
         {
-            ViewBag.Message = "Your contact page.";
+            ViewBag.Message = "Your contact page has been updated.";
 
             return View();
         }
