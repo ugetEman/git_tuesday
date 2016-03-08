@@ -15,7 +15,7 @@ namespace Git_tuesday.Controllers
 
         public ActionResult About()
         {
-            ViewBag.Message = "Your application description page for git change is done.";
+            ViewBag.Message = " git change is done with feature 1.";
 
             return View();
         }
